@@ -28,7 +28,6 @@ import time
 import json
 import httplib
 import requests
-requests.packages.urllib3.disable_warnings()
 
 try:
     from ansible_tower_connector_consts import *
