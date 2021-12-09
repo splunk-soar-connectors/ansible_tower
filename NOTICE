@@ -1,0 +1,9 @@
+Splunk SOAR Ansible Tower
+Copyright (c) World Wide Technology, Inc. 2016
+
+Third-party Software Attributions:
+
+Library: requests
+Version: 2.25.0
+License: Apache 2.0
+Kenneth Reitz
